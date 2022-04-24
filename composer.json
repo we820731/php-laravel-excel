@@ -1,5 +1,5 @@
 {
-  "name": "ahmeti/php-laravel-excel",
+  "name": "eveleen/php-laravel-excel",
   "description": "Supercharged Excel exports in Laravel",
   "license": "MIT",
   "keywords": [
@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=7.0",
-    "ahmeti/php-excel": "^1.8.6",
+    "eveleen/php-excel": "^1.8.6",
     "jeremeamia/superclosure": "^2.3",
     "tijsverkoyen/css-to-inline-styles": "~2.0"
   },
